@@ -3,19 +3,14 @@
 
 <div align="center">
 
-<!-- PERSONAL COVER IMAGE -->
-<!-- Upload assets/cover.png and uncomment the next line when ready. -->
-<!-- <img src="./assets/cover.png" width="100%" alt="Arnav Pokharel" /> -->
+<img src="./assets/cover.png" width="100%" alt="Arnav Pokharel cover" />
 
-# Arnav Pokharel
+### Co-Founder & CTO at [Lunaseed](https://www.lunaseed.io)
 
-### Co-Founder & Engineering Lead at [Lunaseed](https://www.lunaseed.io)
-
-**AI Infrastructure · Agentic Systems · Backend Engineering · Cloud Architecture**
+**AI Infrastructure · System Design · Cloud Architecture**
 
 Building intelligent systems that validate information, orchestrate complex workflows, and scale reliably.
 
-[Portfolio](https://arnavworks.github.io) · [GitHub](https://github.com/arnavworks) · [Lunaseed](https://www.lunaseed.io) · [Founding Team](https://www.lunaseed.io/wefounders)
 
 </div>
 
@@ -58,7 +53,7 @@ My focus is on building **reliable, maintainable, secure, and production-ready A
 
 Lunaseed helps venture firms transform fragmented documents, company disclosures, and live operating data into structured, source-verifiable intelligence for investment decisions.
 
-**Co-Founder | Engineering & System Architecture**
+**Co-Founder | Chief Technology Officer**
 
 </td>
 </tr>
@@ -70,7 +65,7 @@ Our platform is built around a unified validation engine and two connected envir
 
 ### Core Systems
 
-#### 01. Veris — Validation Engine
+#### 01. Fact Sheet Engine
 
 An evidence-processing and validation system designed to establish a structured, verifiable record of company information.
 
@@ -78,10 +73,8 @@ An evidence-processing and validation system designed to establish a structured,
 - Multi-source data ingestion and classification
 - Structured and unstructured data extraction
 - Evidence normalization and reconciliation
-- Cross-source and cross-pillar validation
-- Contradiction detection and severity classification
+- Cross-source and entity resolution
 - Immutable citation mapping and source traceability
-- Stage-calibrated validation workflows
 
 #### 02. Carter — Agentic Intelligence
 
@@ -113,38 +106,12 @@ The application layer connecting investor pipelines, company records, validation
 
 ## Technology Stack
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-### AI & Agent Engineering
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-
-`Multi-Agent Systems` `LLM Orchestration` `Tool Calling` `Agent State Management` `RAG` `Structured Outputs` `Prompt Engineering`
-
-### Backend & Data Engineering
-
-`REST APIs` `Database Architecture` `Asynchronous Processing` `Background Workers` `ETL Pipelines` `Data Validation` `API Integrations` `Structured Data Processing`
-
-### Cloud & DevOps
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-`CI/CD` `Cloud-Native Architecture` `Infrastructure Automation` `Observability` `System Reliability`
+| Area | Technologies & Practices |
+| :--- | :--- |
+| **Languages** | <img src="./assets/tech/python.svg" width="18" height="18" alt="" />&nbsp;Python &nbsp;·&nbsp; <img src="./assets/tech/typescript.svg" width="18" height="18" alt="" />&nbsp;TypeScript &nbsp;·&nbsp; <img src="./assets/tech/javascript.svg" width="18" height="18" alt="" />&nbsp;JavaScript &nbsp;·&nbsp; <img src="./assets/tech/sql.svg" width="18" height="18" alt="" />&nbsp;SQL &nbsp;·&nbsp; <img src="./assets/tech/bash.svg" width="18" height="18" alt="" />&nbsp;Bash |
+| **AI & Agent Engineering** | <img src="./assets/tech/langgraph.svg" width="18" height="18" alt="" />&nbsp;LangGraph &nbsp;·&nbsp; <img src="./assets/tech/langchain.svg" width="18" height="18" alt="" />&nbsp;LangChain &nbsp;·&nbsp; <img src="./assets/tech/openai.svg" width="18" height="18" alt="" />&nbsp;OpenAI &nbsp;·&nbsp; <img src="./assets/tech/anthropic.svg" width="18" height="18" alt="" />&nbsp;Anthropic &nbsp;·&nbsp; <img src="./assets/tech/gemini.svg" width="18" height="18" alt="" />&nbsp;Gemini<br><br>Multi-Agent Systems · LLM Orchestration · Tool Calling · Agent State Management · RAG · Structured Outputs · Prompt Engineering |
+| **Backend & Data Engineering** | REST APIs · Database Architecture · Asynchronous Processing · Background Workers · ETL Pipelines · Data Validation · API Integrations · Structured Data Processing |
+| **Cloud & DevOps** | <img src="./assets/tech/google-cloud.svg" width="18" height="18" alt="" />&nbsp;Google Cloud &nbsp;·&nbsp; <img src="./assets/tech/aws.svg" width="18" height="18" alt="" />&nbsp;AWS &nbsp;·&nbsp; <img src="./assets/tech/docker.svg" width="18" height="18" alt="" />&nbsp;Docker &nbsp;·&nbsp; <img src="./assets/tech/linux.svg" width="18" height="18" alt="" />&nbsp;Linux &nbsp;·&nbsp; <img src="./assets/tech/git.svg" width="18" height="18" alt="" />&nbsp;Git &nbsp;·&nbsp; <img src="./assets/tech/github-actions.svg" width="18" height="18" alt="" />&nbsp;GitHub Actions<br><br>CI/CD · Cloud-Native Architecture · Infrastructure Automation · Observability · System Reliability |
 
 ---
 
@@ -188,15 +155,9 @@ Optimizing infrastructure architecture, processing latency, deployment workflows
 
 ## GitHub Activity
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arnavworks&show_icons=true&hide_border=true&theme=github_dark" height="165" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavworks&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Top Languages"/>
-
-</div>
-
-> Most of my current engineering work is focused on Lunaseed's private repositories and production infrastructure. Public GitHub activity represents only a portion of my development work.
+> Most of my current engineering work is focused on Lunaseed's private repositories and production infrastructure. Public GitHub activity represents only a very thin portion of my research work.
 
 ---
 
@@ -214,14 +175,15 @@ I enjoy understanding how technology works at every layer, from hardware and ope
 
 ---
 
-## Connect
+<h2 align="center">Lets Connect</h2>
 
-<div align="center">
+<h3 align="center">
+  <a href="https://www.linkedin.com/in/arnav-pokharel/" title="LinkedIn"><img src="./assets/connect/linkedin.svg" width="28" height="28" align="center" alt="LinkedIn" /></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/arnavworks" title="GitHub"><img src="./assets/connect/github.svg" width="28" height="28" align="center" alt="GitHub" /></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.lunaseed.io" title="Lunaseed"><img src="./assets/connect/lunaseed.svg" width="28" height="28" align="center" alt="Lunaseed" /></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:arnav.pokharel@lunaseed.io" title="Email"><img src="./assets/connect/email.svg" width="28" height="28" align="center" alt="Email" /></a>
+</h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A1F44?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arnavworks.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnavworks)
-[![Lunaseed](https://img.shields.io/badge/Lunaseed-0A1F44?style=for-the-badge&logoColor=white)](https://www.lunaseed.io)
-
-**Building intelligent systems, one layer at a time.**
-
-</div>
